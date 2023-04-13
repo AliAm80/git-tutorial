@@ -1,0 +1,5 @@
+# this comment is test
+*.doc
+
+temp/
+build/
