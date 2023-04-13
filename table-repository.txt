@@ -1,1 +1,1 @@
-table 2
+table
